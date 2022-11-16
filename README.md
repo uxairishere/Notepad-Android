@@ -1,6 +1,6 @@
 <h1><code style="color: green">Android Notepad Application</code></h1>
 <hr/>
-+ Download the application
+<h2>Download the application</h2>
 <p>Please scan the QRCODE to download the application</p>
 <img width="150" src="notepadQRCODE.png" alt="QR Code Loading..."/>
 or
